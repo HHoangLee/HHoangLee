@@ -1,4 +1,7 @@
-# 👋 Hello, I'm LÊ HUY HOÀNG
+# 👋 WELCOME TO MY PAGE 👋
+
+I'm LÊ HUY HOÀNG. I am a Junior WordPress Developer but i really want to work in AI field so i am doing some AI related projects.
+Thanks for watching!!! 
 
 Here are some Machine Learning projects I have worked on:
 
