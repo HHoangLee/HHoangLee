@@ -3,6 +3,13 @@
 I'm LÊ HUY HOÀNG. I am a Junior WordPress Developer but i really want to work in AI field so i am doing some AI related projects.
 Thanks for watching!!! 
 
+## 📫 How to reach me:
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/HHoangLee)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/your-channel-link)
+
+
 Here are some Machine Learning projects I have worked on:
 
 <p>
