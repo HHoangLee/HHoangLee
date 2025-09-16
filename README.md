@@ -5,7 +5,7 @@ Thanks for watching!!!
 
 Here are some Machine Learning projects I have worked on:
 
-<p align="center">
+<p>
   <a href="https://github.com/HHoangLee/ML_CLassification">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HHoangLee&repo=ML_CLassification&theme=radical" alt="ML_CLassification" />
   </a>
@@ -14,7 +14,7 @@ Here are some Machine Learning projects I have worked on:
   </a>
 </p>
 
-<p align="center">
+<p>
   <a href="https://github.com/HHoangLee/ML_NLP">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HHoangLee&repo=ML_NLP&theme=gruvbox" alt="ML_NLP" />
   </a>
@@ -23,7 +23,7 @@ Here are some Machine Learning projects I have worked on:
   </a>
 </p>
 
-<p align="center">
+<p>
   <a href="https://github.com/HHoangLee/ML_TimeForecasing_Recursive">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HHoangLee&repo=ML_TimeForecasing_Recursive&theme=onedark" alt="ML_TimeForecasing_Recursive" />
   </a>
