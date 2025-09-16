@@ -1,6 +1,6 @@
-# 👋 Xin chào, mình là HHoangLee
+# 👋 Hello, I'm LÊ HUY HOÀNG
 
-Đây là một số dự án Machine Learning mình đã thực hiện:
+Here are some Machine Learning projects I have worked on:
 
 <p align="center">
   <a href="https://github.com/HHoangLee/ML_CLassification">
