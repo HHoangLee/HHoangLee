@@ -32,13 +32,5 @@ Here are some Machine Learning projects I have worked on:
   </a>
 </p>
 
-Here are some Machine Learning projects I have worked on:
+Here are some Deep Learning projects I have worked on:
 
-<p align="center">
-  <a href="https://github.com/HHoangLee/ML_CLassification">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HHoangLee&repo=ML_CLassification&theme=radical" alt="ML_CLassification" />
-  </a>
-  <a href="https://github.com/HHoangLee/ML_Regression">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HHoangLee&repo=ML_Regression&theme=tokyonight" alt="ML_Regression" />
-  </a>
-</p>
