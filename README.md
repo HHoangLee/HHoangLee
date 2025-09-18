@@ -13,7 +13,7 @@ Thanks for watching!!!
 Here are some Machine Learning projects I have worked on:
 
 <p>
-  <a href="https://github.com/HHoangLee/ML_CLassification">
+  <a href="https://github.com/HHoangLee/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HHoangLee&repo=ML_CLassification&theme=radical" alt="ML_CLassification" />
   </a>
   <a href="https://github.com/HHoangLee/ML_Regression">
