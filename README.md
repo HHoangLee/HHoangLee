@@ -43,7 +43,8 @@ Here are some Deep Learning projects I have worked on:
 
 <p>
   <a href="https://github.com/HHoangLee/DL_CNN-image-classification">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HHoangLee&repo=DL_CNN-image-classification&theme=bear" alt="DL_CNN-image-classification" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=HHoangLee&repo=DL_CNN-image-classification&theme=bear
+" alt="DL_CNN-image-classification" />
 </a>
 
 </p>
