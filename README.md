@@ -19,18 +19,14 @@ Here are some Machine Learning projects I have worked on:
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HHoangLee&repo=ML_Regression&theme=radical" alt="ML_Regression" />
   </a>
 </p>
-<p>
-  <a href="https://github.com/HHoangLee/ML_CLassification">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HHoangLee&repo=ML_CLassification&theme=radical" alt="ML_CLassification" />
-  </a>
-  <a href="https://github.com/HHoangLee/ML_Regression">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HHoangLee&repo=ML_Regression&theme=tokyonight" alt="ML_Regression" />
-  </a>
-</p>
+
 
 <p>
   <a href="https://github.com/HHoangLee/ML_NLP">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HHoangLee&repo=ML_NLP&theme=tokyonight" alt="ML_NLP" />
+  </a>
+  <a href="https://github.com/HHoangLee/ML_TimeForecasing_Direct">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HHoangLee&repo=ML_TimeForecasing_Direct&theme=dark" alt="ML_TimeForecasing_Direct" />
   </a>
   <a href="https://github.com/HHoangLee/ML_TimeForecasing_Direct">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HHoangLee&repo=ML_TimeForecasing_Direct&theme=dark" alt="ML_TimeForecasing_Direct" />
@@ -48,7 +44,6 @@ Here are some Machine Learning projects I have worked on:
 
 
 Here are some Deep Learning projects I have worked on:
-
 <p>
   <a href="https://github.com/HHoangLee/DL_CNN-image-classification">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HHoangLee&repo=DL_CNN-image-classification&theme=tokyonight" alt="DL_CNN-image-classification" />
