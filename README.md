@@ -24,7 +24,7 @@ Here are some Machine Learning projects I have worked on:
   </a>
 <p>
   <a href="https://github.com/HHoangLee/ML_NLP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HHoangLee&repo=ML_NLP&theme=gruvbox" alt="ML_NLP" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HHoangLee&repo=ML_NLP&theme=tokyonight" alt="ML_NLP" />
   </a>
   <a href="https://github.com/HHoangLee/ML_TimeForecasing_Direct">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HHoangLee&repo=ML_TimeForecasing_Direct&theme=dark" alt="ML_TimeForecasing_Direct" />
