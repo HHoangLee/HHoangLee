@@ -19,7 +19,9 @@ Here are some Machine Learning projects I have worked on:
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HHoangLee&repo=ML_Regression&theme=tokyonight" alt="ML_Regression" />
   </a>
 </p>
-
+<a href="https://github.com/HHoangLee/ML_NLP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HHoangLee&repo=ML_NLP&theme=tokyonight" alt="ML_NLP" />
+  </a>
 <p>
   <a href="https://github.com/HHoangLee/ML_NLP">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HHoangLee&repo=ML_NLP&theme=gruvbox" alt="ML_NLP" />
