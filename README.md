@@ -40,5 +40,6 @@ Here are some Machine Learning projects I have worked on:
 </p>
 
 Here are some Deep Learning projects I have worked on:
-[![DL_CNN-image-classification](https://github-readme-stats.vercel.app/api/pin/?username=HHoangLee&repo=DL_CNN-image-classification&theme=bear)](https://github.com/HHoangLee/DL_CNN-image-classification)
-
+ <a href="https://github.com/HHoangLee/ML_TimeForecasing_Recursive">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HHoangLee&repo=ML_TimeForecasing_Recursive&theme=onedark" alt="ML_TimeForecasing_Recursive" />
+  </a>
