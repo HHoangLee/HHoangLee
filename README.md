@@ -8,10 +8,6 @@ Thanks for watching!!!
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/HHoangLee/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/HHoangLee)
 
-<a href="https://github.com/HHoangLee/ML_TimeForecasing_Recursive">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HHoangLee&repo=ML_TimeForecasing_Recursive&theme=onedark" alt="ML_TimeForecasing_Recursive" />
-  </a>
-
 Here are some Machine Learning projects I have worked on:
 <p>
 <a href="https://github.com/HHoangLee/ML_Classification">
