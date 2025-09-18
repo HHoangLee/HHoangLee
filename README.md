@@ -29,14 +29,14 @@ Here are some Machine Learning projects I have worked on:
   </a>
 </p>
 
-
+<p>
   <a href="https://github.com/HHoangLee/ML_TimeForecasing_Recursive">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HHoangLee&repo=ML_TimeForecasing_Recursive&theme=onedark" alt="ML_TimeForecasing_Recursive" />
   </a>
   <a href="https://github.com/HHoangLee/ML_RecommendationSystem">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HHoangLee&repo=ML_RecommendationSystem&theme=cobalt" alt="ML_RecommendationSystem" />
   </a>
-
+</p>
 
 Here are some Deep Learning projects I have worked on:
 <p>
