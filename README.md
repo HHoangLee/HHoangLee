@@ -38,6 +38,9 @@ Here are some Machine Learning projects I have worked on:
   </a>
 </p>
 
+<a href="https://github.com/HHoangLee/ML_RecommendationSystem">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HHoangLee&repo=ML_RecommendationSystem&theme=cobalt" alt="ML_RecommendationSystem" />
+  </a>
 
 Here are some Deep Learning projects I have worked on:
 <p>
