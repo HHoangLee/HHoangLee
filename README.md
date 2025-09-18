@@ -20,9 +20,9 @@ Here are some Machine Learning projects I have worked on:
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HHoangLee&repo=ML_Regression&theme=tokyonight" alt="ML_Regression" />
   </a>
 </p>
-<a href="https://github.com/HHoangLee/DL_CNN-image-classification">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=HHoangLee&repo=DL_CNN-image-classification&theme=bear" alt="DL_CNN-image-classification" />
-</a>
+<a href="https://github.com/HHoangLee/ML_Regression">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HHoangLee&repo=ML_Regression&theme=tokyonight" alt="ML_Regression" />
+  </a>
 
 <p>
   <a href="https://github.com/HHoangLee/ML_NLP">
