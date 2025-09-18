@@ -19,10 +19,6 @@ Here are some Machine Learning projects I have worked on:
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HHoangLee&repo=ML_Regression&theme=radical" alt="ML_Regression" />
   </a>
 </p>
-
-<a href="https://github.com/HHoangLee/ML_TimeForecasting_Direct">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HHoangLee&repo=ML_TimeForecasting_Direct&theme=dark" alt="ML_TimeForecasting_Direct" />
-  </a>
   
 <p>
   <a href="https://github.com/HHoangLee/ML_NLP">
