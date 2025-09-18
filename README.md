@@ -42,8 +42,8 @@ Here are some Machine Learning projects I have worked on:
 Here are some Deep Learning projects I have worked on:
 
 <p>
-  <a href="https://github.com/HHoangLee/ML_CLassification">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HHoangLee&repo=ML_CLassification&theme=radical" alt="ML_CLassification" />
+  <a href="https://github.com/HHoangLee/DL_CNN-image-classification">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HHoangLee&repo=DL_CNN-image-classification&theme=radical" alt="DL_CNN-image-classification" />
   </a>
 
 
