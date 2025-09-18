@@ -11,13 +11,14 @@ Thanks for watching!!!
 
 
 Here are some Machine Learning projects I have worked on:
+<p>
 <a href="https://github.com/HHoangLee/ML_Classification">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HHoangLee&repo=ML_Classification&theme=radical" alt="ML_Classification" />
   </a>
 <a href="https://github.com/HHoangLee/ML_Regression">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HHoangLee&repo=ML_Regression&theme=radical" alt="ML_Regression" />
   </a>
-  
+</p>
 <p>
   <a href="https://github.com/HHoangLee/ML_CLassification">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HHoangLee&repo=ML_CLassification&theme=radical" alt="ML_CLassification" />
